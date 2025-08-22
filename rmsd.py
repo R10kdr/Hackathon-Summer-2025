@@ -68,6 +68,3 @@ def compare_csv(file):
 
     plt.show()
 
-
-compare_with = sys.argv[1]
-compare_csv(compare_with)
